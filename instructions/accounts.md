@@ -12,7 +12,7 @@
 8. Click on the default profile avatar image and add a profile image to your Github account. This does not need to be a picture of you, but you should replace the default image.
 9. Make sure you will write down your Github username, as you will need it for the next step
 
-## Google Form  
+## Course Survey 
 
 1. Go to https://forms.gle/TUYbsRPdqiCMw5tx5 and fill out the course survey, which asks for your name, your email, your Github username, etc. and asks you to describe your background and prior instruction with data analysis and programming, among other things
 
